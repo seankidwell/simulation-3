@@ -6,7 +6,59 @@ This project is designed to give you an opportunity to build something from scra
 
 This project is broken into three parts. The setup instructions are more detailed and are designed to get you started. The parts have varying levels of detail, with the newer concepts explained more. This gives you a chance to practice your skills on your own. Your mentors have also been asked to provide only minimal guidance. They can point you in the right direction, but cannot help you code. This project is a chance for you to combine and showcase the skills you've learned so far.
 
-Good luck and work hard!
+## Competencies
+Competencies covered by this project
+
+### Setup
+["Student can use git to create, manage, and synchronize commits locally and remotely (Local and remote repository in-sync, .gitignore)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#database) </br>
+["Student can apply ES6 constructs in React for better code (import, export, destructuring)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#react) </br>
+["Student can use class based components in react and it's features (render, JSX, nested components)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#react) </br>
+["Student can create Node servers using the Express package (Server running)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#server) </br>
+["Student can create tables in a database"](https://github.com/DevMountain/simulation-3/blob/master/README.md#database) </br>
+["Student can connect to their database in their NodeJS servers using Massive"](https://github.com/DevMountain/simulation-3/blob/master/README.md#database) </br>
+
+### Part 1
+<strong>Step 1</strong> </br>
+["Student can add ReactRouter to their code base (HashRouter)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-1) </br>
+["Student can add ReactRouter to their code base (Switch, Route, component)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-1) </br>
+["Student can add ReactRouter to their code base (Link)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-1) </br>
+<strong>Step 2</strong> </br>
+["Student can apply ES6 constructs in React for better code (arrow functions)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2) </br>
+["Student can use class based components in react and it's features (state, setState, constructors)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2) </br>
+["Student can use class based components in react and it's features (events)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2) </br>
+["Student can interact with the web via axios and REST"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2) </br>
+["Student can create a RESTful API (Status codes)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2) </br>
+["Student can create a RESTful API (body parser)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2) </br>
+["Student can create a RESTful API (POST endpoint)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2) </br>
+["Student can create SQL statements to manipulate data in their databases (Select)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2) </br>
+["Student can create SQL statements to manipulate data in their databases (Insert)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2) </br>
+["Student can run SQL commands in their NodeJS servers using Massive"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2) </br>
+<strong>Step 3</strong> </br>
+["Student can create functional components that receive and render props"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-3) </br>
+["Student can utilize Redux in their code to manage state (store, reducer)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-3) </br>
+["Student can utilize Redux in their code to manage state (connect, mapStateToProps, share state)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-3) </br>
+<strong>Step 4</strong> </br>
+["Student can utilize Redux in their code to manage state (actions, action builders, mapDispatchToProps object)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-4) </br>
+
+### Part 2
+<strong>Step 2</strong> </br>
+["Student can create a RESTful API (params)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2-1) </br>
+["Student can create a RESTful API (queries)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2-1) </br>
+["Student can create a RESTful API (GET endpoint)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2-1) </br>
+["Student can utilize SQL Patterns in their databases (one-many)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2-1) </br>
+["Student can create SQL statements to manipulate data in their databases (join)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-2-1) </br>
+<strong>Step 3</strong> </br>
+["Student can use componentDidMount in their code"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-3-1) </br>
+<strong>Step 4</strong> </br>
+["Student can add ReactRouter to their code base (match object)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-4-1) </br>
+
+### Part 3
+<strong>Step 3</strong> </br>
+["Student can store data in sessions"](https://github.com/DevMountain/simulation-3/blob/master/README.md#step-3-2) </br>
+<strong>Final Step</strong> </br>
+["Student can create Node servers using the Express package (Serving static files)"](https://github.com/DevMountain/simulation-3/blob/master/README.md#final-step) </br>
+
+Don't worry too much about the competencies; they will be covered as you build this project. Good luck and work hard!
 
 # Setup
 
@@ -14,7 +66,7 @@ This section will help you create the files you need and install the packages yo
 
 ## Color Palette & Font
 
-<img src="https://github.com/bethtelford/helo-redo/blob/master/assets/style_guide.png" />
+<img src="https://github.com/DevMountain/simulation-3/blob/master/assets/style_guide.png" />
 
 <b>[Google Font - Open Sans](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans)</b>
 
@@ -56,19 +108,9 @@ This section will help you create the files you need and install the packages yo
 10) Copy the connection string from your .env file into SQLTabs and create the users table and the posts table.
 11) It's helpful to insert some dummy data into your database at this point to help you test as you go along. 
 
-## Competencies
-Congratulations! If you finished all the setup, you've already completed some demo competencies!
-
-"Student can use git to create, manage, and synchronize commits locally and remotely (Local and remote repository in-sync, .gitignore)" </br>
-"Student can use class based components in react and it's features (render, JSX, nested components)" </br>
-"Student can apply ES6 constructs in React for better code (import, export, destructuring)" </br>
-"Student can create Node servers using the Express package (Server running)" </br>
-"Student can create tables in a database" </br>
-"Student can connect to their database in their NodeJS servers using Massive" </br>
-
 # Part 1
 
-<b>Live example [here](https://cl.ly/3q2d2c0w2A0R). Filled out planning sheet [here](https://github.com/bethtelford/helo-redo/blob/master/PLANNING_SHEET.md)</b>
+<b>Live example [here](https://helo.devmountain.com/v2/part1/#/). Filled out planning sheet [here](https://github.com/DevMountain/simulation-3/blob/master/PLANNING_SHEET.md)</b>
 
 In the first part you will set up routing and the ability to login/register.
 
@@ -92,9 +134,9 @@ Functionality of the Dashboard View:
 
 ## Design
 Authentication View
-<img src="https://github.com/bethtelford/helo-redo/blob/master/assets/views/helo_redo_auth.png" />
+<img src="https://github.com/DevMountain/simulation-3/blob/master/assets/views/helo_redo_auth.png" />
 Dashboard View
-<img src="https://github.com/bethtelford/helo-redo/blob/master/assets/views/helo_redo_pt1_dashboard.png" />
+<img src="https://github.com/DevMountain/simulation-3/blob/master/assets/views/helo_redo_pt1_dashboard.png" />
 
 ## Step 1
 You are going to begin by setting up the routing.
@@ -111,9 +153,11 @@ You are going to begin by setting up the routing.
    * Remove Auth, Dashboard, Form, and Post from the component.
    * Instead bring in routes from routes.js and render it instead of the other components.
    * The Nav component should remain, as this will show on almost every view. 
-      * The Nav component should not render if the current view is the Auth view (hint: use this.props.history to check which view the user is currently on).
+      * The Nav component should not render if the current view is the Auth view.
+      * Use the location object found on props (this.props.location.pathname) to programatically check which view the user is currently on. If the path is '/', hide the Nav component.
+      * The location object is put onto props by react-router kind of like the match object, where you can find your routing parameters.
    * If you open your application in the browser you should see the navbar in every view but Auth. 
-* Create the 'Home', 'New Post', and 'Logout' buttons in the Nav Bar component. 
+* Create the 'Home', 'New Post', and 'Logout' buttons in the Nav component. 
   * 'Home' should navigate to the Dashboard view.
   * 'New Post' should navigate to the New Post view.
   * 'Logout' should navidate to the Auth view. 
@@ -158,7 +202,7 @@ Your users can now register and login, but your front end immediately forgets wh
    * Write the mapStateToProps function at the bottom of the file.
    * Take the username and profile picture off of the Redux state.
    * Now invoke connect, passing in mapStateToProps. Immediately invoke it again passing in the name of the component.
-* Now if you console.log props inside your render method you should see the values coming from the Redux state. 
+* Now if you console.log props inside the Nav component you should see the values coming from the Redux state. 
 * Set up the user profile picture and username to display. This will be pretty boring looking until we update these values in the next step
 
 ## Step 4 
@@ -181,38 +225,9 @@ Finally you will setup your Auth component to update Redux state.
   * Once the user information has come back from the server, invoke the action builder and pass the information in. 
   * The profile picture and username should now display in the navbar.
 
-
-## Competencies
-You just covered a lot of competencies! Here is the breakdown:
-
-<strong>Step 1</strong> </br>
-"Student can add ReactRouter to their code base (HashRouter)" </br>
-"Student can add ReactRouter to their code base (Switch, Route, component)" </br>
-"Student can add ReactRouter to their code base (Link)" </br>
-
-<strong>Step 2</strong> </br>
-"Student can apply ES6 constructs in React for better code (arrow functions)" </br>
-"Student can use class based components in react and it's features (state, setState, constructors)" </br>
-"Student can use class based components in react and it's features (events)" </br>
-"Student can interact with the web via axios and REST" </br>
-"Student can create a RESTful API (Status codes)" </br>
-"Student can create a RESTful API (body parser)" </br>
-"Student can create a RESTful API (POST endpoint)" </br>
-"Student can create SQL statements to manipulate data in their databases (Select)" </br>
-"Student can create SQL statements to manipulate data in their databases (Insert)" </br>
-"Student can run SQL commands in their NodeJS servers using Massive" </br>
-
-<strong>Step 3</strong> </br>
-"Student can create functional components that receive and render props" </br>
-"Student can utilize Redux in their code to manage state (store, reducer)" </br>
-"Student can utilize Redux in their code to manage state (connect, mapStateToProps, share state)" </br>
-
-<strong>Step 4</strong> </br>
-"Student can utilize Redux in their code to manage state (actions, action builders, mapDispatchToProps object)" </br>
-
 # Part 2
 
-<b>Live examples: [Dashboard](https://cl.ly/2Y2m0W0N3v2a) [New Post](https://cl.ly/0w3Q2r2b3h3L) [Failed New Post](https://cl.ly/1s0x1p231J0e) [Post View](https://cl.ly/101N3L1g0S08)</b>
+<b>Live example [here](https://helo.devmountain.com/v2/part2/#/)</b>
 
 In this part you will add the ability to view posts and create new ones.
 
@@ -231,14 +246,13 @@ Functionality of the New Post View:
 
 ## Design
 Authentication View
-<img src="https://github.com/bethtelford/helo-redo/blob/master/assets/views/helo_redo_auth.png" />
+<img src="https://github.com/DevMountain/simulation-3/blob/master/assets/views/helo_redo_auth.png" />
 Dashboard View
-<img src="https://github.com/bethtelford/helo-redo/blob/master/assets/views/helo_redo_pt2_dashboard.png" />
+<img src="https://github.com/DevMountain/simulation-3/blob/master/assets/views/helo_redo_pt2_dashboard.png" />
 Post View
-<img src="https://github.com/bethtelford/helo-redo/blob/master/assets/views/helo_redo_post.png" />
+<img src="https://github.com/DevMountain/simulation-3/blob/master/assets/views/helo_redo_post.png" />
 New Post View
-<img src="https://github.com/bethtelford/helo-redo/blob/master/assets/views/helo_redo_new_post.png" />
-
+<img src="https://github.com/DevMountain/simulation-3/blob/master/assets/views/helo_redo_new_post.png" />
 
 ## Step 1
 First create the layout of the Dashboard.
@@ -254,6 +268,7 @@ First create the layout of the Dashboard.
 ## Step 2
 Then write the GET endpoint to retreive all posts. This endpoint is going to accept some queries: userposts(boolean) and search(string).
 
+* The endpoint should return the post information and the author information for each post (hint: use a join)
 * The endpoint should have a parameter for the user id.
 * If userposts is true AND there is a search string, the endpoint should respond with all the posts where...
   * The title contains the search string.
@@ -318,23 +333,9 @@ Now you will add the ability to add a new post.
   * The request should send all the values stored in state in the body.
   * Once the response comes back from the server, redirect the user to the Dashboard.
 
-## Competencies
-You just covered a lot of competencies! Here is the breakdown:
-
-<strong>Step 2</strong> </br>
-"Student can create a RESTful API (params)" </br>
-"Student can create a RESTful API (queries)" </br>
-"Student can create a RESTful API (GET endpoint)" </br>
-
-<strong>Step 3</strong> </br>
-"Student can use componentDidMount in their code" </br>
-
-<strong>Step 4</strong> </br>
-"Student can add ReactRouter to their code base (match object)" </br>
-
 # Part 3
 
-The live example looks exactly the same as the live example from Part 2. 
+<b>Live example [here](https://helo.devmountain.com/v2/part3/#/)</b>
 
 It's really cool that we can store data in Redux, but it's kind of a pain to keep sending the user's id along with all the axios requests, and if the user refreshes the page they have to log in again. So to solve both these problems, you will be implementing sessions in this part.
 
@@ -389,7 +390,7 @@ Next you can remove all instances of the user id in your front end code. It will
 At this point your application should function just the same as before, but you have much cleaner code doing it.
 
 ## Step 5
-Finally, you will be sprucing up your Nav component so the user can refresh the page and still be logged in. Note: Because you have implemented sessions, the backend will remember your user when they refresh the page, but the font end won't look like it does. That's what you're going to fix in this step.
+Finally, you will be sprucing up your Nav component so the user can refresh the page and still be logged in. Note: Because you have implemented sessions, the backend will remember your user when they refresh the page, but the front end won't look like it does. That's what you're going to fix in this step.
 
 * Open the Nav component and change it to a class component instead of a functional component.
   * Make sure to change any instance of props to reference this.props instead.
@@ -418,12 +419,6 @@ Once you have completed all the functionality of your application you are ready 
 
 * Run `npm run build`
 * Use express.static to serve the build from your server.
-
-## Competencies
-You added two absolutely massive competencies! 
-
-"Student can store data in sessions" </br>
-"Student can create Node servers using the Express package (Serving static files)" </br>
 
 <b>Congratulations! You've completed 32 competencies and built your third full-stack application!</b>
 
