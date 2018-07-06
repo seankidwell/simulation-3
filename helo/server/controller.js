@@ -4,6 +4,7 @@ module.exports = {
     const db = req.app.get("db");
     const {username, password} = req.body;
     db.create_user([username, password]).then(user => {
+      req.session.userid = user[0].id
       res.status(200).send(user)
     })
   },
@@ -11,7 +12,12 @@ module.exports = {
     const db = req.app.get("db");
     const {username, password} = req.body;
     db.get_user([username, password]).then(user => {
+      req.session.userid = user[0].id
       res.status(200).send(user)
     })
+  },
+  logout: (req, res) => {
+    req.session.destroy();
+    res.redirect('http://localhost:3000/#/')
   }
 }

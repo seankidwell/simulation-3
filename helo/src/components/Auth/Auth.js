@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import axios from "axios";
 import { connect } from "react-redux";
-import {setUser} from "../../ducks/reducer";
+import { setUser } from "../../ducks/reducer";
 
 class Auth extends Component {
   constructor() {
@@ -50,15 +50,11 @@ class Auth extends Component {
         <div>Auth</div>
         <input
           placeholder="username"
-          onChange={e => {
-            this.changeUsername(e.target.value);
-          }}
+          onChange={e => this.changeUsername(e.target.value)}
         />
         <input
           placeholder="password"
-          onChange={e => {
-            this.changePassword(e.target.value);
-          }}
+          onChange={e => this.changePassword(e.target.value)}
         />
         <br />
         <button onClick={this.register}>Register</button>
